@@ -1,0 +1,18 @@
+@FinalFields, false
+com.Subastas.client.DTO.CategoriaDTO, false, false, true, true, com.Subastas.client.DTO.CategoriaDTO/2131131769, 2131131769
+com.Subastas.client.DTO.OfertaDTO, false, false, true, true, com.Subastas.client.DTO.OfertaDTO/2250757381, 2250757381
+com.Subastas.client.DTO.SubastaDTO, false, false, true, true, com.Subastas.client.DTO.SubastaDTO/2918394131, 2918394131
+com.Subastas.client.DTO.UsuarioDTO, false, false, true, true, com.Subastas.client.DTO.UsuarioDTO/1156840507, 1156840507
+com.Subastas.client.GreetingService, false, false, false, false, _, 2495421010
+com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException, true, true, true, true, com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException/3936916533, 3936916533
+com.google.gwt.user.client.rpc.RpcTokenException, true, true, false, false, com.google.gwt.user.client.rpc.RpcTokenException/2345075298, 2345075298
+com.google.gwt.user.client.rpc.XsrfToken, false, false, true, true, com.google.gwt.user.client.rpc.XsrfToken/4254043109, 4254043109
+com.google.gwt.user.client.ui.ChangeListenerCollection, true, true, false, false, com.google.gwt.user.client.ui.ChangeListenerCollection/287642957, 287642957
+com.google.gwt.user.client.ui.ClickListenerCollection, true, true, false, false, com.google.gwt.user.client.ui.ClickListenerCollection/2152455986, 2152455986
+com.google.gwt.user.client.ui.FocusListenerCollection, true, true, false, false, com.google.gwt.user.client.ui.FocusListenerCollection/119490835, 119490835
+com.google.gwt.user.client.ui.KeyboardListenerCollection, true, true, false, false, com.google.gwt.user.client.ui.KeyboardListenerCollection/1040442242, 1040442242
+java.lang.Exception, true, false, true, false, java.lang.Exception/1920171873, 1920171873
+java.lang.RuntimeException, true, false, true, false, java.lang.RuntimeException/515124647, 515124647
+java.lang.String, true, true, true, true, java.lang.String/2004016611, 2004016611
+java.lang.Throwable, true, false, true, false, java.lang.Throwable/2953622131, 2953622131
+java.util.ArrayList, true, true, false, false, java.util.ArrayList/4159755760, 4159755760
