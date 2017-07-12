@@ -1,0 +1,5 @@
+#Wed Jul 12 09:39:25 COT 2017
+war.name=Subastas.war
+compiler.style=OBFUSCATED
+server.path=C\:\\xampp\\tomcat\\webapps
+compiler.memory.max=1024m
