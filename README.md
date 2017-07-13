@@ -1,2 +1,5 @@
-# GWTSubastas
-Framework para el desarrollo web GWT
+# Framework GWT
+Ejemplo de un sistema de subastas en GWT
+
+# Autor
+Daniel Gomez Jaramillo 
