@@ -1,0 +1,2 @@
+serviceClass: com.Subastas.client.GreetingService
+path: D1272E384E86F4F22E51B89989BD31B7.gwt.rpc

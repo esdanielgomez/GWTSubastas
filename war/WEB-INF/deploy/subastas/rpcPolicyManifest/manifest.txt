@@ -1,0 +1,3 @@
+# Module subastas
+# RPC service class, partial path of RPC policy file
+com.Subastas.client.GreetingService, D1272E384E86F4F22E51B89989BD31B7.gwt.rpc
